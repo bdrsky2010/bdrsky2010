@@ -1,17 +1,19 @@
-# 김민재 | 앞만 보지 않고 뒤도 돌아보는 개발자가 되겠습니다.
+# ☄️ 김민재 | 앞만 보지 않고 뒤도 돌아보는 개발자.
 
-## Contact
+## 🤳🏼 Contact & Channel
   Email: bdrsky2006@naver.com
 
   Phone: 010-XXXX-XXXX
 
-## Channel
-  Blog: <https://minjae1995.tistory.com/>
+  [github](https://github.com/bdrsky2010)
+  
 
-## 지원 직무
+  [Blog](https://minjae1995.tistory.com/)
+
+## 🙋🏻 지원 직무
   Junior iOS Developer
 
-## Project
+## 🧑🏻‍💻 Project
 > 개인 프로젝트
 >> 프로젝트 1
 >>
@@ -23,7 +25,7 @@
 >>
 >> 프로젝트 2
 
-## Skill
+## 💥 Skill
   * iOS
 
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
@@ -40,7 +42,7 @@
   
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
-## Education
+## 🏫 Education
   강원대학교 / 소프트웨어미디어융합전공 학사 (2021.03 ~ 2023.08)
 
 
