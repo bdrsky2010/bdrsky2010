@@ -16,8 +16,10 @@
   * iOS: Swift, SwiftUI, Alamofire
   * Design Tool: 써보자,,
   * Design Pattern: 해보자,,
-  * Cofiguration Management: Git, Github
-  * ETC: 
+  * Cofiguration Management
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
+  * ETC
   
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
