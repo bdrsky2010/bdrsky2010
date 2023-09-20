@@ -15,7 +15,9 @@
 ## Skill
   * iOS
 
-    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Alamofire-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
+
+    <img src="https://img.shields.io/badge/Combine-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Alamofire-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=reactivex&logoColor=white">
   * Design Tool: 써보자,,
   * Design Pattern: 해보자,,
   * Cofiguration Management
