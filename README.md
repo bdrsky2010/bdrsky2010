@@ -1,4 +1,4 @@
-# 김민재
+# 김민재 | 앞만 보지 않고 항상 뒤를 돌아보는 개발자가 되겠습니다.
 
 ## Contact
   Email: bdrsky2006@naver.com
