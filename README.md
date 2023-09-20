@@ -18,6 +18,7 @@
   * Design Pattern: 해보자,,
   * Cofiguration Management: Git, Github
   * ETC: C, C++, JAVA
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ## Education
   강원대학교 / 소프트웨어미디어융합전공 학사 (2021.03 ~ 2023.08)
