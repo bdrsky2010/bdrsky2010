@@ -34,6 +34,9 @@
   * Design Tool
 
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  * DB
+
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   * Design Pattern: MVC, MVP, MVVM
   * Cofiguration Management
 
