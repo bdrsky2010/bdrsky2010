@@ -13,15 +13,17 @@
   * 프로젝트 해야지,,
 
 ## Skill
-  * iOS: Swift, SwiftUI, Alamofire
+  * iOS: Swift, UIkit, SwiftUI, Alamofire
+
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Alamofire-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
   * Design Tool: 써보자,,
   * Design Pattern: 해보자,,
   * Cofiguration Management
 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
   * ETC
   
-    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 ## Education
   강원대학교 / 소프트웨어미디어융합전공 학사 (2021.03 ~ 2023.08)
