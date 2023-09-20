@@ -3,6 +3,8 @@
 ## Contact
   Email: bdrsky2006@naver.com
 
+  Phone: 010-XXXX-XXXX
+
 ## Channel
   Blog: <https://minjae1995.tistory.com/>
 
