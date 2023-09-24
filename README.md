@@ -61,4 +61,4 @@
   리테일테크 코딩 교실 SSG Re:Coder 5기 수료 (2023.04 ~ 2023.08)
 
 
-![bdrsky2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdrsky2010&theme=kacho_ga&show_icons=true)
+![bdrsky2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdrsky2010&theme=transparent&show_icons=true)
