@@ -25,7 +25,7 @@
   * DB
 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
-  * Design Pattern: MVC, MVP, MVVM
+  * Design Pattern: MVVM, TCA
   * Cofiguration Management
 
     <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">  
