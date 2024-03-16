@@ -18,7 +18,7 @@
 
     <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIkit-2396F3?style=plastic&logo=uikit&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=plastic&logo=swift&logoColor=white"> 
 
-    <img src="https://img.shields.io/badge/Combine-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Alamofire-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=plastic&logo=reactivex&logoColor=white">
+    <img src="https://img.shields.io/badge/Combine-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=plastic&logo=reactivex&logoColor=white">
   * Design Tool
 
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white">
