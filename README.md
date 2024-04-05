@@ -25,14 +25,17 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
 
 ## 🏫 Education
-  강원대학교 / 소프트웨어미디어융합전공 학사 (2021.03 ~ 2023.08)
+  - 강원대학교 / 소프트웨어미디어융합전공 학사 (2021.03 ~ 2023.08)
 
 
-  테킷 iOS 앱스쿨 3기 (2023.09 ~ 2024.02)
+  - 테킷 iOS 앱스쿨 3기 (2023.09 ~ 2024.02)
 
 
+  - 앨런 Swift문법 마스터 스쿨 (2024.04 ~ )
+
+  
 ## 🧑🏻‍🏫 Activities
-  리테일테크 코딩 교실 SSG Re:Coder 5기 수료 (2023.04 ~ 2023.08)
+  - 리테일테크 코딩 교실 SSG Re:Coder 5기 수료 (2023.04 ~ 2023.08)
 
 
 ## 💼 My Stats
