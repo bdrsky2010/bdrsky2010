@@ -39,6 +39,6 @@
 
 
 ## 💼 My Stats
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bdrsky2010)](https://solved.ac/bdrsky2010/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bdrsky2010&theme=dark)
 
 ![bdrsky2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdrsky2010&theme=transparent&show_icons=true)
