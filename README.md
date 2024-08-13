@@ -9,7 +9,7 @@
 ## 💥 Skill
   * iOS
 
-    <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIkit-2396F3?style=plastic&logo=uikit&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Combine-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=plastic&logo=reactivex&logoColor=white">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIkit-2396F3?style=plastic&logo=uikit&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Combine-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/RxSwift-B7178C?style=plastic&logo=reactivex&logoColor=white">
     
   * Tool
     
