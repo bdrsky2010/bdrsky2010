@@ -1,7 +1,7 @@
 # ☄️ 김민재 | 앞만 보지 않고 뒤도 돌아보는 개발자.
 
 ## 🤳🏼 Contact
-  Email: bdrsky2006@naver.com
+  Email: rldaldwod@gmail.com
 
 ## 🙋🏻 지원 직무
   iOS Developer
